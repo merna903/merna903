@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/merna903](https://github.com/merna903)
 
-- 📫 How to reach me **merna155@gmail.com**
+- 📫 How to reach me **merna1556@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
